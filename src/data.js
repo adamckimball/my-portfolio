@@ -1,15 +1,15 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Aumni",
+    subtitle: "React, Ruby on Rails, and PostgreQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Built out large form builder that helps with data ingestion for complex data structures.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://aumni.fund",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "CheckMedic - Verisys",
+    subtitle: "React, Ruby on Rails, and MySQL",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
@@ -52,9 +52,11 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
+  "CSS",
+  "HTML",
   "React",
-  "Next.js",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "Ruby on Rails",
+  "PostgresQL",
+  "MySQL",
 ];
