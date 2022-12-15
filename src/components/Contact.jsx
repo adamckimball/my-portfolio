@@ -20,12 +20,7 @@ export default function Contact() {
               adamkimballdev@gmail.com
             </p>
           </div>
-          <div className="sm:w-1/2 w-full px-6 sm:mt-0 mt-4">
-            <h2 className="title-font font-semibold text-white tracking-widest text-s">
-              PHONE
-            </h2>
-            <p className="leading-relaxed">801-518-0954</p>
-          </div>
+          <div className="sm:w-1/2 w-full px-6 sm:mt-0 mt-4"></div>
         </div>
       </div>
     </section>
